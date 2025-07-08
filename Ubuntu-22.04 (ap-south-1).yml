@@ -16,7 +16,7 @@ Parameters:
     Default: 10.99.99.0/28
 
   KeyName:
-    Description: 'Optional key pair of the ec2-user to establish a SSH connectio.'
+    Description: 'Optional key pair of the ec2-user to establish a SSH connection.'
     Type: 'AWS::EC2::KeyPair::KeyName'
     Default: ''
 
